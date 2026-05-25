@@ -13,14 +13,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosAbraao02&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAbraao02&layout=compact&theme=tokyonight&cache_seconds=1800)
-
----
-
 ### 📫 Como me encontrar
 
 - 💼 LinkedIn: [Marcos Abraão Maciel Brito](https://www.linkedin.com/in/marcos-abra%C3%A3o-maciel-brito-254349214/)
