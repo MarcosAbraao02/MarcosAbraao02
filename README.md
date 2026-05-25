@@ -21,15 +21,7 @@
 
 ---
 
-### 🔥 Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MarcosAbraao02&theme=tokyonight)
-
----
-
-### 📫 Como me encontrar
-
 ### 📫 Como me encontrar
 
 - 💼 LinkedIn: [Marcos Abraão Maciel Brito](https://www.linkedin.com/in/marcos-abra%C3%A3o-maciel-brito-254349214/)
-- 📧 Email: marcos.maciel@mercadolivre.com
+- 📧 Email: marcos200maciel@gmail.com
