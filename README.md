@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Marcos 👋</h1>
+<h3 align="center">Fullfilment Assistant no Mercado Livre</h3>
 
-<!--
-**MarcosAbraao02/MarcosAbraao02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Linguagens e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosAbraao02&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAbraao02&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MarcosAbraao02&theme=tokyonight)
+
+---
+
+### 📫 Como me encontrar
+
+### 📫 Como me encontrar
+
+- 💼 LinkedIn: [Marcos Abraão Maciel Brito](https://www.linkedin.com/in/marcos-abra%C3%A3o-maciel-brito-254349214/)
+- 📧 Email: marcos.maciel@mercadolivre.com
